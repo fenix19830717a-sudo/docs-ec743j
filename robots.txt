@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-oveqod.nuansa138b.space/sitemap.xml
